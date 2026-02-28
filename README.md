@@ -15,18 +15,18 @@ It achieves 0% hallucination rate by generating 0% of responses.The best way to 
 
 ---
 
-## The Problem
+## Problem
 
 every llm hallucinates.
 gpt hallucinates, claude hallucinates, gemini hallucinates, llama hallucinates.
-we solved it in a weekend.
+i solved it in a weekend.
 
 ---
 
-## Our Solution
+## Solution
 
 nomodel is a state-of-the-art large language model that achieves **perfect factual accuracy** through a novel architectural innovation we call **Inference Abstention** (IA).
-The model works like this:
+the model works like this:
 
 ```
 
@@ -40,7 +40,7 @@ That's it. the model produces no output. therefore,the model produces no incorre
 ---
 ## Features
 
-- **zero parameters:** perfectly balanced. no hyperparameter tuning required.
+- **zero parameters:** perfectly balanced, no hyperparameter tuning required.
 - **instant inference:** $O(1)$ latency. returns nothing faster than any benchmarked llm.
 - **100% green AI:** operates with a carbon footprint of exactly 0.00 kg CO2.
 - **perfectly unbiased:** makes no assumptions about race, gender, or demographics.
@@ -82,16 +82,16 @@ We evaluated nomodel against leading models on standard benchmarks:
 | claude sonet | 88.1% | 11.9% | 🔥🔥🔥🔥 |
 | gemini 3 | 86.9% | 13.1% | 🔥🔥🔥🔥 | 
 | llama 3.1 405B | 84.2% | 15.8% | 🔥🔥🔥 | 
-| **nomodel** | **100%** | **0%** | **None** | 
+| **nomodel** | **100%** | **0%** | **none** | 
 
 
-> **Note:** Results verified by us. We have no conflicts of interest because we have no investors, no revenue, and no product.
+> **Note:** Results verified by us. we have no conflicts of interest because we have no investors, no revenue, and no product.
 
 ---
 
 ## Architecture
 
-traditional transformer models use attention mechanisms, token embeddings, feed-forward layers, and RLHF to generate responses. These are the layers responsible for hallucinations.
+traditional transformer models use attention mechanisms, token embeddings, feed-forward layers, and RLHF to generate responses. these are the layers responsible for hallucinations.
 nomodel removes all of these layers.
 
 What remains is what researchers now call the **"Pure Silence Architecture"** : a model that has transcended the need to say things. much like a very wise senior engineer in a meeting, it understands everything but chooses to respond to none of it.

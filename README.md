@@ -19,8 +19,6 @@ It achieves 0% hallucination rate by generating 0% of responses.The best way to 
 
 Every LLM hallucinates.
 GPT hallucinates. Claude hallucinates. Gemini hallucinates. Llama hallucinates.
-They confidently cite papers that don't exist. They invent lawyers. They fabricate court cases.
-The AI safety community has spent billions of dollars, millions of gpu-hours, and countless research papers trying to solve hallucinations.
 We solved it in a weekend.
 
 ---
@@ -34,7 +32,7 @@ The model works like this:
 
 ```
 
-That's it. The model produces no output. Therefore, the model produces no incorrect output. The math is clean.
+That's it. the model produces no output. therefore,the model produces no incorrect output. the math is clean.
 
 > *"You cannot be wrong about something you never said."*
 > — Ancient Proverb (probably)

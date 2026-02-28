@@ -1,9 +1,9 @@
 # nomodel
 
 > **The world's most accurate large language model.**
-It achieves 0% hallucination rate by generating 0% of responses.The best way to prevent overfitting, eliminate bias, and reduce GPU compute costs is to deploy no model at all. 
+It achieves 0% hallucination rate by generating 0% of responses.the best way to prevent overfitting, eliminate bias, and reduce gpu compute costs is to deploy no model at all. 
 
-`nomodel` is a revolutionary, zero-parameter machine learning architecture. It requires no training data, consumes absolutely zero electricity, and is mathematically proven to be 100% immune to adversarial attacks.
+`nomodel` is a revolutionary, zero-parameter machine learning architecture. it requires no training data, consumes absolutely zero electricity, and is mathematically proven to be 100% immune to adversarial attacks.
 
 
 [![Hallucination Rate](https://img.shields.io/badge/hallucination_rate-0%25-brightgreen)](https://github.com/Samyak-777/no-hallucinations)
@@ -17,9 +17,9 @@ It achieves 0% hallucination rate by generating 0% of responses.The best way to 
 
 ## Problem
 
-every llm hallucinates.
+Every llm hallucinates.
 gpt hallucinates, claude hallucinates, gemini hallucinates, llama hallucinates.
-i solved it in a weekend.
+we solved it in a weekend.
 
 ---
 
@@ -35,7 +35,7 @@ the model works like this:
 That's it. the model produces no output. therefore,the model produces no incorrect output. the math is clean.
 
 > *"You cannot be wrong about something you never said."*
-> — Ancient Proverb (probably)
+> — ancient proverb (probably)
 
 ---
 ## Features
@@ -85,14 +85,13 @@ We evaluated nomodel against leading models on standard benchmarks:
 | **nomodel** | **100%** | **0%** | **none** | 
 
 
-> **Note:** Results verified by us. we have no conflicts of interest because we have no investors, no revenue, and no product.
+> **Note:** results verified by us. we have no conflicts of interest because we have no investors, no revenue, and no product.
 
 ---
 
 ## Architecture
 
-traditional transformer models use attention mechanisms, token embeddings, feed-forward layers, and RLHF to generate responses. these are the layers responsible for hallucinations.
-nomodel removes all of these layers.
+traditional transformer models use attention mechanisms, token embeddings, feed-forward layers, and RLHF to generate responses. these are the layers responsible for hallucinations. nomodel removes all of these layers.
 
 What remains is what researchers now call the **"Pure Silence Architecture"** : a model that has transcended the need to say things. much like a very wise senior engineer in a meeting, it understands everything but chooses to respond to none of it.
 

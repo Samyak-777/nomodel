@@ -17,9 +17,9 @@ It achieves 0% hallucination rate by generating 0% of responses.The best way to 
 
 ## The Problem
 
-Every LLM hallucinates.
-GPT hallucinates. Claude hallucinates. Gemini hallucinates. Llama hallucinates.
-We solved it in a weekend.
+every llm hallucinates.
+gpt hallucinates, claude hallucinates, gemini hallucinates, llama hallucinates.
+we solved it in a weekend.
 
 ---
 
@@ -40,12 +40,12 @@ That's it. the model produces no output. therefore,the model produces no incorre
 ---
 ## Features
 
-- **zero parameters:** Perfectly balanced. No hyperparameter tuning required.
-- **instant inference:** $O(1)$ latency. Returns nothing faster than any benchmarked LLM.
-- **100% green AI:** Operates with a carbon footprint of exactly 0.00 kg CO2.
-- **perfectly unbiased:** Makes no assumptions about race, gender, or demographics.
-- **hardware agnostic:** Runs flawlessly on everything from an nvidia H100 cluster to a toaster. 
-- **infinite context window:** Since it processes nothing, it can process an infinite amount of nothing simultaneously.
+- **zero parameters:** perfectly balanced. no hyperparameter tuning required.
+- **instant inference:** $O(1)$ latency. returns nothing faster than any benchmarked llm.
+- **100% green AI:** operates with a carbon footprint of exactly 0.00 kg CO2.
+- **perfectly unbiased:** makes no assumptions about race, gender, or demographics.
+- **hardware agnostic:** runs flawlessly on everything from an nvidia H100 cluster to a toaster. 
+- **infinite context window:** since it processes nothing, it can process an infinite amount of nothing simultaneously.
   
 ## Getting Started
 
@@ -91,19 +91,19 @@ We evaluated nomodel against leading models on standard benchmarks:
 
 ## Architecture
 
-Traditional transformer models use attention mechanisms, token embeddings, feed-forward layers, and RLHF to generate responses. These are the layers responsible for hallucinations.
+traditional transformer models use attention mechanisms, token embeddings, feed-forward layers, and RLHF to generate responses. These are the layers responsible for hallucinations.
 nomodel removes all of these layers.
 
-What remains is what researchers now call the **"Pure Silence Architecture"** — a model that has transcended the need to say things. Much like a very wise senior engineer in a meeting, it understands everything but chooses to respond to none of it.
+What remains is what researchers now call the **"Pure Silence Architecture"** : a model that has transcended the need to say things. much like a very wise senior engineer in a meeting, it understands everything but chooses to respond to none of it.
 
 ```
-Input Tokens
+input tokens
       │
       ▼
- [Nothing]
+ [nothing]
       │
       ▼
-Output: ∅
+output: ∅
 ```
 
 ---
@@ -111,13 +111,13 @@ Output: ∅
 
 ## Fine-tuning
 
-You can fine-tune nomodel on your custom dataset:
+you can fine-tune nomodel on your custom dataset:
 
 ```bash
 
 ```
 
-**Rate Limits:** Unlimited. We have never rejected a request on account of load.
+**rate limits:** unlimited. we have never rejected a request on account of load.
 
 
 ## Roadmap

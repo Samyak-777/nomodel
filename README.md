@@ -18,7 +18,7 @@ It achieves 0% hallucination rate by generating 0% of responses.the best way to 
 ## Problem
 
 Every llm hallucinates.
-gpt hallucinates, claude hallucinates, gemini hallucinates, llama hallucinates.
+gpt hallucinates, claude hallucinates, gemini hallucinates, deepseek hallucinates, llama hallucinates.
 we solved it in a weekend.
 
 ---

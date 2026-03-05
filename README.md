@@ -133,7 +133,7 @@ you can fine-tune nomodel on your custom dataset:
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request.
----
+
 
 ## License
 
